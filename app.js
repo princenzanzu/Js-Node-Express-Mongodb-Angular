@@ -27,7 +27,7 @@ app.use((req,res,nex)=>{
 });
 
 */
-
+//By Prince Nzanzu
 // définition du header
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
